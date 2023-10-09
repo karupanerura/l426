@@ -1,6 +1,6 @@
 # l426
 
-Basic loopback IPv6 to IPv4 proxy server for TCP
+Basic loopback IPv6 to IPv4 reverse proxy server for TCP
 
 Send TCP payloads from [::1] to 127.0.0.1 on specified local TCP ports.
 
